@@ -4,8 +4,8 @@
     "auto_start": false,
     "drawing_grid_size": 25,
     "grid_size": 75,
-    "name": "ITI_LAB",
-    "project_id": "a624cf3a-8a17-40b9-bbbd-8d7ca3e843c4",
+    "name": "ITI_LAB_3",
+    "project_id": "6f0f92c9-2704-48ff-886e-3a56427bd671",
     "revision": 9,
     "scene_height": 1000,
     "scene_width": 2000,
@@ -20,7 +20,7 @@
         "links": [
             {
                 "filters": {},
-                "link_id": "91b80106-327c-4b00-89a2-f9ab0fc90148",
+                "link_id": "54ad82f0-bba1-4309-b035-f1aa2bc3949a",
                 "link_style": {},
                 "nodes": [
                     {
@@ -32,7 +32,7 @@
                             "x": 72,
                             "y": 29
                         },
-                        "node_id": "25a6d332-6e8a-4094-a803-e8620c8e91f6",
+                        "node_id": "ad6fe457-72ff-4edd-a0c3-26060287be32",
                         "port_number": 0
                     },
                     {
@@ -44,7 +44,7 @@
                             "x": -4,
                             "y": 16
                         },
-                        "node_id": "1126c820-97af-4b63-ae84-505347edf69b",
+                        "node_id": "40e16d22-8e3b-435e-ae8f-88355ce4d55b",
                         "port_number": 1
                     }
                 ],
@@ -52,7 +52,7 @@
             },
             {
                 "filters": {},
-                "link_id": "334697c5-7d9f-47ed-b1cc-8a5729a2ef95",
+                "link_id": "7949d3b4-69f9-48f8-8bca-e1e447b805e4",
                 "link_style": {},
                 "nodes": [
                     {
@@ -64,7 +64,7 @@
                             "x": -7,
                             "y": 29
                         },
-                        "node_id": "d2a21902-6df5-4591-881e-ec51889f4915",
+                        "node_id": "33072e02-6939-4473-9f76-9ff06d873629",
                         "port_number": 0
                     },
                     {
@@ -76,7 +76,7 @@
                             "x": 75,
                             "y": 15
                         },
-                        "node_id": "43438cb8-0e54-4f58-98c3-8b1a17d80335",
+                        "node_id": "41cbab4c-2892-42ba-8d83-f0ff7f3b4897",
                         "port_number": 1
                     }
                 ],
@@ -84,7 +84,7 @@
             },
             {
                 "filters": {},
-                "link_id": "85b5ac67-b3a7-4d0c-96ec-b63ad4a3f903",
+                "link_id": "946f26d7-e90b-4c7e-b014-dd6755d677bf",
                 "link_style": {},
                 "nodes": [
                     {
@@ -93,10 +93,10 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "s2/0",
-                            "x": 33,
-                            "y": 22
+                            "x": 58,
+                            "y": -32
                         },
-                        "node_id": "2ff2f679-c386-40f0-b8d3-9e93232cedfc",
+                        "node_id": "d81f1d56-9a5b-4a39-8883-3c2669196f31",
                         "port_number": 0
                     },
                     {
@@ -105,10 +105,10 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "s2/0",
-                            "x": 33,
-                            "y": 22
+                            "x": -49,
+                            "y": -30
                         },
-                        "node_id": "3befe7ff-e9e4-40c6-86ba-f0fa52e57537",
+                        "node_id": "8c852ea3-3032-4a7b-8bfa-caa26f23c09e",
                         "port_number": 0
                     }
                 ],
@@ -116,7 +116,7 @@
             },
             {
                 "filters": {},
-                "link_id": "3b57d1d1-840d-415b-994d-2eb8c8fd0a19",
+                "link_id": "0199a3c5-f616-49a2-a18e-a4d87146f497",
                 "link_style": {},
                 "nodes": [
                     {
@@ -125,42 +125,10 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "s2/1",
-                            "x": 33,
-                            "y": 22
+                            "x": -48,
+                            "y": 14
                         },
-                        "node_id": "3befe7ff-e9e4-40c6-86ba-f0fa52e57537",
-                        "port_number": 1
-                    },
-                    {
-                        "adapter_number": 2,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "s2/0",
-                            "x": 33,
-                            "y": 22
-                        },
-                        "node_id": "bec0b008-9111-48c2-8b3e-91bb4a6aa52f",
-                        "port_number": 0
-                    }
-                ],
-                "suspend": false
-            },
-            {
-                "filters": {},
-                "link_id": "45cbb3cd-009d-4a06-a5e4-b15c6902a8fe",
-                "link_style": {},
-                "nodes": [
-                    {
-                        "adapter_number": 2,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "s2/1",
-                            "x": 33,
-                            "y": 22
-                        },
-                        "node_id": "bec0b008-9111-48c2-8b3e-91bb4a6aa52f",
+                        "node_id": "fc3c1294-e1fc-4a91-ba24-293e76e0d7d5",
                         "port_number": 1
                     },
                     {
@@ -169,10 +137,10 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "s2/1",
-                            "x": 33,
-                            "y": 22
+                            "x": -26,
+                            "y": 46
                         },
-                        "node_id": "2ff2f679-c386-40f0-b8d3-9e93232cedfc",
+                        "node_id": "d81f1d56-9a5b-4a39-8883-3c2669196f31",
                         "port_number": 1
                     }
                 ],
@@ -180,7 +148,7 @@
             },
             {
                 "filters": {},
-                "link_id": "14868f08-9f60-4f8d-8945-84ce12b6fd4c",
+                "link_id": "f75a06f8-300e-4689-a2b5-39e70e23bac1",
                 "link_style": {},
                 "nodes": [
                     {
@@ -192,7 +160,7 @@
                             "x": 69,
                             "y": 5
                         },
-                        "node_id": "3befe7ff-e9e4-40c6-86ba-f0fa52e57537",
+                        "node_id": "8c852ea3-3032-4a7b-8bfa-caa26f23c09e",
                         "port_number": 0
                     },
                     {
@@ -204,7 +172,7 @@
                             "x": 0,
                             "y": 32
                         },
-                        "node_id": "43438cb8-0e54-4f58-98c3-8b1a17d80335",
+                        "node_id": "41cbab4c-2892-42ba-8d83-f0ff7f3b4897",
                         "port_number": 0
                     }
                 ],
@@ -212,7 +180,7 @@
             },
             {
                 "filters": {},
-                "link_id": "f0105e81-1534-4371-883d-da81175eaa95",
+                "link_id": "dd2bbc8b-40e3-470c-8106-4cb72fead8e7",
                 "link_style": {},
                 "nodes": [
                     {
@@ -224,7 +192,7 @@
                             "x": 71,
                             "y": 33
                         },
-                        "node_id": "1126c820-97af-4b63-ae84-505347edf69b",
+                        "node_id": "40e16d22-8e3b-435e-ae8f-88355ce4d55b",
                         "port_number": 0
                     },
                     {
@@ -233,10 +201,10 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": -2,
-                            "y": 4
+                            "x": -59,
+                            "y": -2
                         },
-                        "node_id": "2ff2f679-c386-40f0-b8d3-9e93232cedfc",
+                        "node_id": "d81f1d56-9a5b-4a39-8883-3c2669196f31",
                         "port_number": 0
                     }
                 ],
@@ -244,7 +212,7 @@
             },
             {
                 "filters": {},
-                "link_id": "8e4c03b4-ff6f-4fd6-82e3-19bcc768287a",
+                "link_id": "846659ca-33fd-4264-92b4-b003987c75d1",
                 "link_style": {},
                 "nodes": [
                     {
@@ -256,7 +224,7 @@
                             "x": 32,
                             "y": 61
                         },
-                        "node_id": "bec0b008-9111-48c2-8b3e-91bb4a6aa52f",
+                        "node_id": "fc3c1294-e1fc-4a91-ba24-293e76e0d7d5",
                         "port_number": 0
                     },
                     {
@@ -268,7 +236,7 @@
                             "x": 35,
                             "y": -23
                         },
-                        "node_id": "3888272b-c16b-451a-b77b-603d500b2803",
+                        "node_id": "9279c846-75f0-4708-81b4-611eabf1797e",
                         "port_number": 0
                     }
                 ],
@@ -276,7 +244,7 @@
             },
             {
                 "filters": {},
-                "link_id": "0da02e4c-cdb0-4b9b-b6e6-868aa841ebea",
+                "link_id": "427c9f04-8d33-46d3-ad6e-a7d310d0e92e",
                 "link_style": {},
                 "nodes": [
                     {
@@ -288,7 +256,7 @@
                             "x": 36,
                             "y": 55
                         },
-                        "node_id": "3888272b-c16b-451a-b77b-603d500b2803",
+                        "node_id": "9279c846-75f0-4708-81b4-611eabf1797e",
                         "port_number": 1
                     },
                     {
@@ -300,8 +268,40 @@
                             "x": 31,
                             "y": -10
                         },
-                        "node_id": "55580741-5c41-48cd-9c94-f31a8a9457e0",
+                        "node_id": "c9f62574-59c4-46a6-9583-b37872edad75",
                         "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "04c31857-798b-4f2a-8a8a-e4b7cdd281fb",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 2,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "s2/1",
+                            "x": 33,
+                            "y": 45
+                        },
+                        "node_id": "8c852ea3-3032-4a7b-8bfa-caa26f23c09e",
+                        "port_number": 1
+                    },
+                    {
+                        "adapter_number": 2,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "s2/2",
+                            "x": 53,
+                            "y": 27
+                        },
+                        "node_id": "fc3c1294-e1fc-4a91-ba24-293e76e0d7d5",
+                        "port_number": 2
                     }
                 ],
                 "suspend": false
@@ -310,7 +310,7 @@
         "nodes": [
             {
                 "compute_id": "local",
-                "console": 5004,
+                "console": 5003,
                 "console_auto_start": true,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -325,7 +325,7 @@
                 },
                 "locked": false,
                 "name": "PC1",
-                "node_id": "25a6d332-6e8a-4094-a803-e8620c8e91f6",
+                "node_id": "ad6fe457-72ff-4edd-a0c3-26060287be32",
                 "node_type": "vpcs",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -339,7 +339,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5009,
+                "console": 5005,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -354,7 +354,7 @@
                 },
                 "locked": false,
                 "name": "PC2",
-                "node_id": "d2a21902-6df5-4591-881e-ec51889f4915",
+                "node_id": "33072e02-6939-4473-9f76-9ff06d873629",
                 "node_type": "vpcs",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -368,7 +368,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5014,
+                "console": 5007,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -383,7 +383,7 @@
                 },
                 "locked": false,
                 "name": "R1",
-                "node_id": "2ff2f679-c386-40f0-b8d3-9e93232cedfc",
+                "node_id": "d81f1d56-9a5b-4a39-8883-3c2669196f31",
                 "node_type": "dynamips",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -400,7 +400,7 @@
                     "idlesleep": 30,
                     "image": "c7200-advipservicesk9-mz.152-4.S5.image",
                     "image_md5sum": "cbbbea66a253f1dac0fcf81274dc778d",
-                    "mac_addr": "ca01.84f4.0000",
+                    "mac_addr": "ca01.6b5c.0000",
                     "midplane": "vxr",
                     "mmap": true,
                     "npe": "npe-400",
@@ -437,7 +437,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5016,
+                "console": 5008,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -452,7 +452,7 @@
                 },
                 "locked": false,
                 "name": "PC3",
-                "node_id": "55580741-5c41-48cd-9c94-f31a8a9457e0",
+                "node_id": "c9f62574-59c4-46a6-9583-b37872edad75",
                 "node_type": "vpcs",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -466,7 +466,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5019,
+                "console": 5010,
                 "console_auto_start": false,
                 "console_type": "none",
                 "custom_adapters": [],
@@ -481,7 +481,7 @@
                 },
                 "locked": false,
                 "name": "Switch1",
-                "node_id": "1126c820-97af-4b63-ae84-505347edf69b",
+                "node_id": "40e16d22-8e3b-435e-ae8f-88355ce4d55b",
                 "node_type": "ethernet_switch",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -546,7 +546,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5020,
+                "console": 5011,
                 "console_auto_start": false,
                 "console_type": "none",
                 "custom_adapters": [],
@@ -561,7 +561,7 @@
                 },
                 "locked": false,
                 "name": "Switch2",
-                "node_id": "43438cb8-0e54-4f58-98c3-8b1a17d80335",
+                "node_id": "41cbab4c-2892-42ba-8d83-f0ff7f3b4897",
                 "node_type": "ethernet_switch",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -626,7 +626,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5021,
+                "console": 5013,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -641,7 +641,7 @@
                 },
                 "locked": false,
                 "name": "R2",
-                "node_id": "3befe7ff-e9e4-40c6-86ba-f0fa52e57537",
+                "node_id": "8c852ea3-3032-4a7b-8bfa-caa26f23c09e",
                 "node_type": "dynamips",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -658,7 +658,7 @@
                     "idlesleep": 30,
                     "image": "c7200-advipservicesk9-mz.152-4.S5.image",
                     "image_md5sum": "cbbbea66a253f1dac0fcf81274dc778d",
-                    "mac_addr": "ca02.8894.0000",
+                    "mac_addr": "ca02.2210.0000",
                     "midplane": "vxr",
                     "mmap": true,
                     "npe": "npe-400",
@@ -695,7 +695,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5022,
+                "console": 5015,
                 "console_auto_start": false,
                 "console_type": "telnet",
                 "custom_adapters": [],
@@ -710,7 +710,7 @@
                 },
                 "locked": false,
                 "name": "R3",
-                "node_id": "bec0b008-9111-48c2-8b3e-91bb4a6aa52f",
+                "node_id": "fc3c1294-e1fc-4a91-ba24-293e76e0d7d5",
                 "node_type": "dynamips",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
@@ -727,7 +727,7 @@
                     "idlesleep": 30,
                     "image": "c7200-advipservicesk9-mz.152-4.S5.image",
                     "image_md5sum": "cbbbea66a253f1dac0fcf81274dc778d",
-                    "mac_addr": "ca03.9a90.0000",
+                    "mac_addr": "ca03.6a8c.0000",
                     "midplane": "vxr",
                     "mmap": true,
                     "npe": "npe-400",
@@ -764,7 +764,7 @@
             },
             {
                 "compute_id": "local",
-                "console": 5023,
+                "console": 5018,
                 "console_auto_start": false,
                 "console_type": "none",
                 "custom_adapters": [],
@@ -779,7 +779,7 @@
                 },
                 "locked": false,
                 "name": "Switch3",
-                "node_id": "3888272b-c16b-451a-b77b-603d500b2803",
+                "node_id": "9279c846-75f0-4708-81b4-611eabf1797e",
                 "node_type": "ethernet_switch",
                 "port_name_format": "Ethernet{0}",
                 "port_segment_size": 0,
